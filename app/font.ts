@@ -18,6 +18,11 @@ export const sfProDisplay = localFont({
       weight: '400',
       style: 'normal',
     },
+    {
+      path: './fonts/SFPRODISPLAYMEDIUM.otf', // Ajustez le chemin selon votre structure de dossiers
+      weight: '500',
+      style: 'normal',
+    },
     // Vous pouvez ajouter d'autres variantes si nécessaire
     // {
     //   path: '../../fonts/SF-Pro-Display-Bold.otf',
